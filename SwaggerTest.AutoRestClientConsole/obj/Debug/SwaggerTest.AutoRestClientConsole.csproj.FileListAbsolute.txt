@@ -1,0 +1,9 @@
+C:\Users\tanatagoren\documents\visual studio 2015\Projects\SwaggerTest\SwaggerTest.AutoRestClientConsole\bin\Debug\SwaggerTest.AutoRestClientConsole.exe.config
+C:\Users\tanatagoren\documents\visual studio 2015\Projects\SwaggerTest\SwaggerTest.AutoRestClientConsole\bin\Debug\SwaggerTest.AutoRestClientConsole.exe
+C:\Users\tanatagoren\documents\visual studio 2015\Projects\SwaggerTest\SwaggerTest.AutoRestClientConsole\bin\Debug\SwaggerTest.AutoRestClientConsole.pdb
+C:\Users\tanatagoren\documents\visual studio 2015\Projects\SwaggerTest\SwaggerTest.AutoRestClientConsole\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\tanatagoren\documents\visual studio 2015\Projects\SwaggerTest\SwaggerTest.AutoRestClientConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tanatagoren\documents\visual studio 2015\Projects\SwaggerTest\SwaggerTest.AutoRestClientConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tanatagoren\documents\visual studio 2015\Projects\SwaggerTest\SwaggerTest.AutoRestClientConsole\obj\Debug\SwaggerTest.AutoRestClientConsole.exe
+C:\Users\tanatagoren\documents\visual studio 2015\Projects\SwaggerTest\SwaggerTest.AutoRestClientConsole\obj\Debug\SwaggerTest.AutoRestClientConsole.pdb
+C:\Users\tanatagoren\documents\visual studio 2015\Projects\SwaggerTest\SwaggerTest.AutoRestClientConsole\obj\Debug\SwaggerTest.AutoRestClientConsole.csprojResolveAssemblyReference.cache
